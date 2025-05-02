@@ -4,7 +4,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 # Title
-st.title("Forestry Carbon Pricing Model Demo")
+st.title("Forestry Carbon Project Revenue & NPV Model Demo")
 
 st.markdown("""
 This demo models carbon revenue from a reforestation project:
